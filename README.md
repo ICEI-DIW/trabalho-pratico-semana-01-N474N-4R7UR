@@ -7,7 +7,7 @@ Nome: Natan Artur Souza Ferreira
 Matricula: 781590
 
 ## Tela de inspeção com navegador
-
+![Print Inspeção de Rede](print-inspecao.png)
 
 ## Tela de projeto no Replit
-
+![Print Projeto Replit](print-replit.png)
